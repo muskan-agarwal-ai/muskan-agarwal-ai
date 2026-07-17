@@ -9,6 +9,7 @@ What I build
 - RAG and Agentic RAG systems with vector databases
 - LLM evaluation harnesses and guardrails
 - Real-time AI applications at production scale
+- Fine-tuned domain-adapted LLMs using LoRA and QLoRA
 
 Stack
 Python · LangChain · LangGraph · FastAPI · Databricks · Azure · Redis · ChromaDB · Docker · PySpark · Delta Lake
@@ -19,5 +20,5 @@ Projects
 - (https://github.com/muskan-agarwal-ai/neuroniq) — 3 HR AI apps on a shared agentic RAG backend
 - (https://github.com/muskan-agarwal-ai/qlora-policy-bot) — Fine-tuned Llama 3 8B on 18K domain pairs using QLoRA, JSON reliability
 
-Connect
+Connect - get in touch to know more about the projects/tools
 [LinkedIn](www.linkedin.com/in/muskan-agarwal-3208a216a) · muskangagarwal@gmail.com
